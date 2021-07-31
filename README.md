@@ -1,2 +1,2 @@
 # node-chat-app
-Testing application
+Testing chat application
